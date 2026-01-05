@@ -6,7 +6,7 @@ I'm a passionate developer exploring full-stack web development, backend systems
 
 ### 🔧 Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Python
-- **Frameworks/Libraries**: Django, React (inferred from projects), Tkinter
+- **Frameworks/Libraries**: Django, React (inferred from projects), Tkinter , Express
 - **Interests**: Web applications, E-commerce, Secure communication, GUI tools
 
 ### 🚀 Featured Projects
